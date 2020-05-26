@@ -43,7 +43,7 @@ Clone RightPeer
 Prepare to download or build V8
 -------------------
 
-    cd rightpeer
+    cd rightpeer-source
     set RIGHTPEER_HOME=$(pwd)
     mkdir v8build
     cd v8build
