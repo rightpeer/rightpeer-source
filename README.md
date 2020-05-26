@@ -33,7 +33,7 @@ Install dependencies
 
 RightPeer requires Boost version no later than 1.65.
 
-    sudo apt-get install -y libboost1.65-all-dev
+    sudo apt-get install -y libboost-all-dev
 
 Clone RightPeer
 ----------------
