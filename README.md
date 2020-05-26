@@ -3,7 +3,7 @@ RightPeer
 
 [RightPeer](http://www.rightpeer.com/) is an open source platform for intellectual property protection on the blockchain. RightPeer provides maximal compatibility with the bitcoin ecosystem, including the peer-to-peer protocol, transaction/block formats and [Bitcoin Core](https://bitcoin.org/en/bitcoin-core/) APIs/runtime parameters.
 
-    Copyright (c) 2020 RightPeer
+    Copyright (c) RightPeer Limited RightPeer
     License: GNU General Public License version 3, see COPYING
 
     Portions copyright (c) 2009-2016 The Bitcoin Core developers
