@@ -27,6 +27,7 @@ Install dependencies
     sudo apt-get install -y software-properties-common
     sudo apt-get install -y build-essential libtool autotools-dev automake pkg-config libssl-dev git python python-pip
     sudo add-apt-repository ppa:bitcoin/bitcoin
+    sudo apt update
     sudo apt-get install -y libdb4.8-dev libdb4.8++-dev
     sudo pip install pathlib2
 
